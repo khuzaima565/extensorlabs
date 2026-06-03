@@ -1,0 +1,6 @@
+{
+  "name": "Extensor Labs Brand Space",
+  "description": "The official premium digital brand identity, interactive design system, and visual guidelines platform for Extensor Labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
